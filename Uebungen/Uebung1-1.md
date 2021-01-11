@@ -29,3 +29,11 @@ In diesem Ordner werden alle PHP Dateien vom Modul abgelegt. Ich empfehle ausser
     ```
 
 1. Öffnen Sie die URL `127.0.0.1:8000` in einem Browser.
+
+> Den Server können Sie mit `Ctrl+C` beenden.
+
+## Fragen / Aufgaben ##
+
+[] Was sehen Sie?
+[] Was bedeutet das -S vom PHP Befehl?
+[] Ersetzen Sie den PHP Code im `index.php` durch anderen PHP Code und kontrollieren Sie ob die Ausgabe im Browser übereinstimmt.
