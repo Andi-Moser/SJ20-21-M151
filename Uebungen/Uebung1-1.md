@@ -15,17 +15,17 @@ In diesem Ordner werden alle PHP Dateien vom Modul abgelegt. Ich empfehle ausser
 
 1. Erstellen Sie im Ordner zu dieser Übung eine Datei namens `index.php`. Fügen Sie in dieser Datei folgenden Inhalt ein:
         
-        ```php
-        <?php
-            phpinfo();
-        ?>
-        ```
+    ```php
+    <?php
+        phpinfo();
+    ?>
+    ```
 
 1. Öffnen Sie eine Konsole und starten Sie mit folgenden Befehlen den integrierten Webserver:
 
-        ```shell script
-        cd ~/m151/Uebungen/Uebung1-1
-        php -S 0.0.0.0:8000
-        ```
+    ```shell script
+    cd ~/m151/Uebungen/Uebung1-1
+    php -S 0.0.0.0:8000
+    ```
 
 1. Öffnen Sie die URL `127.0.0.1:8000` in einem Browser.
