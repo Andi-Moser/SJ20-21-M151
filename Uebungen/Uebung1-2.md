@@ -39,7 +39,7 @@
     ?>
     ```
 
-## Fragen ##
+## Fragen (zu Zweit) ##
 
 - [ ] Ändert sich der Counter nachdem die erste Zeile auskommentiert wurde?
 - [ ] Wieso ändert er sich nicht? 
