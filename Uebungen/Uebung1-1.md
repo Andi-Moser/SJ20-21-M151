@@ -34,6 +34,6 @@ In diesem Ordner werden alle PHP Dateien vom Modul abgelegt. Ich empfehle ausser
 
 ## Fragen / Aufgaben ##
 
-[] Was sehen Sie?
-[] Was bedeutet das -S vom PHP Befehl?
-[] Ersetzen Sie den PHP Code im `index.php` durch anderen PHP Code und kontrollieren Sie ob die Ausgabe im Browser übereinstimmt.
+- [ ] Was sehen Sie?
+- [ ] Was bedeutet das -S vom PHP Befehl?
+- [ ] Ersetzen Sie den PHP Code im `index.php` durch anderen PHP Code und kontrollieren Sie ob die Ausgabe im Browser übereinstimmt.
