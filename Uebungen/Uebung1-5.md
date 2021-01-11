@@ -46,7 +46,7 @@ Erstellen Sie ein Formular mit welchem sich der Benutzer eine eigene Pizza zusam
 Der Benutzer kann eine Zutat eingeben und diese mit einem Klick auf den Button hinzufügen. Verwenden Sie
 das Wissen aus der Übung 1.2 um die Zutaten in der Session zu speichern.
 
-![Pizza Konfigurator](https://raw.githubusercontent.com/Andi-Moser/SJ20-21-M151/main/Uebungen/img/pizza.png)
+![Pizza Konfigurator](https://github.com/Andi-Moser/SJ20-21-M151/raw/main/Uebungen/img/pizza.png)
 
 ### Tipps ###
 
