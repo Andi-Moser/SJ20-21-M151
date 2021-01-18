@@ -38,4 +38,4 @@ try {
 
 1. Studieren Sie [dieses Tutorial](https://www.php-einfach.de/mysql-tutorial/crashkurs-pdo/) und bauen Sie die gelernten Funktionen in Ihren Code ein.
 
-- [ ] Passen Sie die Seite so an, dass alle Benutzer in einer HTML Tabelle dargestellt werden.
+- [ ] Passen Sie die Seite so an, dass alle Kunden (Tabelle `customers`) in einer HTML Tabelle dargestellt werden.
