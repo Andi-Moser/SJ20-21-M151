@@ -17,8 +17,7 @@ Alle weiteren Übungen sowie das Projekt wird in diesem Ordner umgesetzt.
 Um Laravel zu installieren, muss `composer` installiert sein. Composer ist ein Paketmanagement-Tool
 mit dessen Sie diverse Frameworks und Applikationen installieren können.
 
-- Installation von Composer auf Ubuntu/Mac
-    - `composer create-project laravel/laravel laravel`
+- [Installation von Composer auf Ubuntu/Mac](https://getcomposer.org/download/)
 - [Installation von Composer auf Windows](https://getcomposer.org/doc/00-intro.md#installation-windows)
 
 > XAMPP User
@@ -31,6 +30,13 @@ mit dessen Sie diverse Frameworks und Applikationen installieren können.
 ### Laravel Installieren ###
 
 1. Wechseln Sie (`cd`) in einem Terminal das Verzeichnis zum Ordner Ihrer Übungen.
+
+1. Führen Sie folgende Befehle aus um Probleme mit dem SSL Zertifikat zu vermeiden:
+
+    ```shell script
+    composer config --global disable-tls true
+    composer config --global secure-http false
+    ```
 
 1. Installieren Sie mit folgenden Befehl die benötigten PHP Erweiterungen
 
