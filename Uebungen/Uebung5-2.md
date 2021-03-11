@@ -28,6 +28,10 @@ Da diese View keine Daten benötigt ist hier auch kein Controller hinterlegt.
 Wir möchten nun eine Route erstellen welche alle Produkte auflistet. Die Route soll
 auf den Pfad `/products` (GET) lauten und die Methode `ProductController::list()` aufrufen.
 
+> Ist der Controller noch nicht vorhanden, muss er zuerst erstellt werden. Auch hier hilft uns das Artisan Command:
+>
+> `php artisan make:controller UserController`
+
 Wir erstellen also die Route wie folgt:
 
 ```php

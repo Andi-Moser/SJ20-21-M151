@@ -160,8 +160,8 @@ Prüfen wir nun erneut den Status (`php artisan migrate:status`) sehen wir folge
 +------+--------------------------------------------+-------+
 | Ran? | Migration                                  | Batch |
 +------+--------------------------------------------+-------+
-| No   | 2019_08_19_000000_create_failed_jobs_table |       |
-| No   | 2021_02_15_094145_create_products_table    |       |
+| Yes  | 2019_08_19_000000_create_failed_jobs_table |  1    |
+| Yes  | 2021_02_15_094145_create_products_table    |  1    |
 +------+--------------------------------------------+-------+
 ```
 
