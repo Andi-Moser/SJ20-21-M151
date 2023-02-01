@@ -12,7 +12,7 @@ dann im Browser öffnen können (z.B. http://m151.test/Uebung1-5/)
 
 ```html
 <form method="POST" action="?">
-    <input type="text" name="name" placeholder="Benutzername"
+    <input type="text" name="name" placeholder="Benutzername" />
     <input type="submit" value="Absenden" />
 </form>
 ```
