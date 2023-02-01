@@ -4,11 +4,9 @@
 
 ## Vorbereitung ##
 
-1. Erstellen Sie eine Datei namens `index.php` und starten sie den Webserver im Ordner der Übung
+Erstellen Sie wie immer einen neuen Ordner für diese Übung den Sie
+dann im Browser öffnen können (z.B. http://m151.test/Uebung1-5/)
 
-    ```shell script
-    php -S 0.0.0.0:8000
-    ```
 
 1. Erstellen Sie in der Datei `index.php` ein simples Formular. Geben Sie als `action` Attribute die eigene Seite (`?`) an:
 

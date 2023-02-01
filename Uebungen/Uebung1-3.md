@@ -4,11 +4,8 @@
 
 ## Vorbereitung ##
 
-Erstellen Sie eine Datei namens `index.php` und starten sie den Webserver im Ordner der Übung
-
-```shell script
-php -S 0.0.0.0:8000
-```
+Erstellen Sie eine Datei namens `index.php` und öffnen Sie diese über den Browser
+(z.B. https://m151.test/Uebung1-3/)
 
 ## Session Handling ##
 

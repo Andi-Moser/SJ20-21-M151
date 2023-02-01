@@ -16,14 +16,7 @@
     ?>
     ```
 
-1. Starten Sie den Webserver in dem Ordner der Übung
-
-    ```shell script
-    cd ~/m151/Uebungen/Uebung1-2
-    php -S 0.0.0.0:8000
-    ```
-
-1. Öffnen Sie die Seite im Browser und aktualisieren Sie ein paar mal. Ändert sich der Counter?
+1. Öffnen Sie die Seite im Browser (z.B. http://m151.test/Uebung1-2/) und aktualisieren Sie ein paar mal. Ändert sich der Counter?
 
     > Nein, aber das ist ja logisch. Auf der ersten Zeile setzen wir `$anzahl_aufrufe` wieder auf 0!
 
