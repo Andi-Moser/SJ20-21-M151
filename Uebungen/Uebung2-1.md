@@ -4,26 +4,26 @@
 
 ## Verbindung herstellen ##
 
-1. Erstellen Sie wie immer eine Datei `index.php` im Ordner dieser Übung und starten Sie dort den PHP Webserver
-    
-    ```shell script
-    php -S 0.0.0.0:8000
-    ```
-
 1. Fügen Sie folgenden Code in der Datei ein. Passen Sie den Servernamen, Benutzernamen und Passwort entsprechend Ihrer Umgebung an.
 
     ```php
-    <?php
-    $servername = "localhost";
-    $username = "username";
-    $password = "password";
-    
-    $conn = mysqli_connect($servername, $username, $password);
-    
-    if (!$conn) {
-      die("Connection failed: " . mysqli_connect_error());
-    }
-    echo "Connected successfully";
+   <?php
+   $servername = "localhost";
+   $username = "root";
+   $password = "";
+   $database = "northwind";
+   
+   $conn = mysqli_connect($servername, $username, $password);
+   
+   if (!$conn) {
+       die("Connection failed: " . mysqli_connect_error());
+   }
+   
+   echo "Connected successfully<br />";
+   
+   mysqli_select_db($conn, $database);
+   
+   echo "Datenbank ausgewählt!<br />";
     ?>
     ```
 

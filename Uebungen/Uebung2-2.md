@@ -4,11 +4,6 @@
 
 ## Datenbankverbindung herstellen ##
 
-1. Erstellen Sie wie immer eine Datei `index.php` im Ordner dieser Übung und starten Sie dort den PHP Webserver
-    
-    > In Zukunft wird dieser Schritt nicht mehr explizit aufgelistet. Sofern nichts anderes angegeben ist wird davon ausgegangen dass der Code
-    > in einer Datei namens `index.php` ist und der Webserver gestartet wird.
-
 1. Mit folgendem Code wird eine Verbindung via PDO zum MySQL Server hergestellt. Fügen Sie diesen in Ihre `index.php` und passen Sie die Zugangsdaten an.
 
 ```php
