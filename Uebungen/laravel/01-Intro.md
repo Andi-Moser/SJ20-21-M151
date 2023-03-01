@@ -74,7 +74,7 @@ Was ein Controller im MVC Model macht sollte hinlänglich bekannt sein.
 
 Wie viele moderne Frameworks, arbeitet Laravel mit einem Request-Response-Lifecycle. Dies bedeutet, wenn eine Seite
 aufgerufen wird, erstellt Laravel ein `Request` Objekt mit allen dazugehörigen Daten (URL, POST Parameter, HTTP Headers).
-Dieser Request wird im Controller quasi zu einer `Response umgewandelt`:
+Dieser Request wird im Controller quasi zu einer `Response` umgewandelt:
 
 ```php
 class UserController extends Controller
