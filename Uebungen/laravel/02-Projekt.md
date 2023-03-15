@@ -21,3 +21,19 @@ Diese Events werden lediglich über die Datenbank erstellt und bleiben sonst sta
 ### 3. Events administierbar machen
 
 Im letzten Schritt wird ein Login für Admins erstellt welche Events direkt im Browser erstellen und bearbeiten können.
+
+## Anforderungen
+
+Folgende Anforderungen werden bei der Projektkorrektur gelten (Reihenfolge nicht priorisiert):
+
+- Vollständigkeit / Fehlerfrei
+- Sauberkeit des Codes
+- Eingesetzte Laravel Features:
+  - Layout Files
+  - Models
+  - Router
+  - Controller
+  - Seeder
+  - Factories
+  - Validation
+  - Sicheres Login
